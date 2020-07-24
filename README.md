@@ -1,4 +1,7 @@
 # DwNet
+
+### UPDATE: The implementation is now hosted at the **UBC Computer Vision Lab** official [GitHub repository](https://github.com/UBC-Computer-Vision-Group/DwNet).
+
 An implementation of the BMVC2019 paper "DwNet: Dense warp-based network for pose-guided human video generation".
 In this paper, we focus on human motion transfer – generation of a video depicting a particular subject, observed in a single image, performing a series of motions exemplified by an auxiliary (driving) video.
 
@@ -7,4 +10,3 @@ In this paper, we focus on human motion transfer – generation of a video depic
 ## And here is our demo video for both Taichi and Fashion:
 [![Video Demo](https://raw.githubusercontent.com/zpolina/dwnet/master/thumbnail.png)](https://drive.google.com/file/d/1XdPv5ajQkUWm0YoCst9Zv__KOuiWGKTO/view?usp=sharing)
 
-Please stay tuned for our paper source code, it should appear soon.
